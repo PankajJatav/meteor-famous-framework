@@ -1,0 +1,3 @@
+[submodule "famous-framework/framework"]
+	path = famous-framework/framework
+	url = https://github.com/Famous/framework
